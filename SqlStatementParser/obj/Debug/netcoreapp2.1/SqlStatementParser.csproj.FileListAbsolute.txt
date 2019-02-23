@@ -9,3 +9,14 @@ E:\Projects2019\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.As
 E:\Projects2019\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.AssemblyInfo.cs
 E:\Projects2019\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.dll
 E:\Projects2019\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.pdb
+E:\Projects2019\SqlTest\SqlStatementParser\bin\Debug\netcoreapp2.1\SqlStatementParser.deps.json
+E:\Projects2019\SqlTest\SqlStatementParser\bin\Debug\netcoreapp2.1\SqlStatementParser.runtimeconfig.json
+E:\Projects2019\SqlTest\SqlStatementParser\bin\Debug\netcoreapp2.1\SqlStatementParser.runtimeconfig.dev.json
+E:\Projects2019\SqlTest\SqlStatementParser\bin\Debug\netcoreapp2.1\SqlStatementParser.dll
+E:\Projects2019\SqlTest\SqlStatementParser\bin\Debug\netcoreapp2.1\SqlStatementParser.pdb
+E:\Projects2019\SqlTest\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.csprojAssemblyReference.cache
+E:\Projects2019\SqlTest\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.csproj.CoreCompileInputs.cache
+E:\Projects2019\SqlTest\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.AssemblyInfoInputs.cache
+E:\Projects2019\SqlTest\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.AssemblyInfo.cs
+E:\Projects2019\SqlTest\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.dll
+E:\Projects2019\SqlTest\SqlStatementParser\obj\Debug\netcoreapp2.1\SqlStatementParser.pdb
