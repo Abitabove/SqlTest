@@ -1,0 +1,11 @@
+[
+	{
+	"StatementName": "Statement-1", "StatementValue" : "SELECT * FROM `patients`"
+	},
+	{
+	"StatementName": "Statement-2", "StatementValue" : "SELECT * FROM [dbo].[patients] where ssn=’367289249’;"
+	},
+	{
+	"StatementName": "Statement-3", "StatementValue" : "SELECT * FROM [dbo].[patients] p where SSN in (SELECT ssn from [dbo].[ClinicalTrialGroup] c WHERE c.participationDate > ‘2019-01-01’)"
+	}
+]
